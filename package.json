@@ -47,7 +47,8 @@
     "before": [
       "ember-cli-sass",
       "ember-cli-less",
-      "ember-cli-stylus"
+      "ember-cli-stylus",
+      "broccoli-asset-rev"
     ],
     "configPath": "tests/dummy/config"
   },
